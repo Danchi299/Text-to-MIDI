@@ -4,20 +4,9 @@ from piano_database import white_notes as white
 #black = "!@$%^*(QWETYIOPSDGHJLZCVB"
 #white = "1234567890qwertyuiopasdfghjklzxcvbn"
 
-def getline(text):
-    
-    line = text.splitlines()[0]
-    
-    text = text[(text.find('\n')) + 1:]
-    
-    return line, text
-
 num = int(input("Input Shift: "))
 
 notes = open("input.txt",'r').read()
-
-_, notes = getline(notes)
-_, notes = getline(notes)
 
 if notes[0] == '\n': notes = notes [1:]
 
