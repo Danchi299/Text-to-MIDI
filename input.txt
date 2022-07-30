@@ -1,0 +1,33 @@
+bpm: 120
+
+channel: 1
+time: 0
+ins: 2
+volume: 90
+name: Piano 1
+
+I= I= T= I-\O-\P|
+I= I= T= P-\O-\I|
+I= I= T= I-\O-\P|
+S+ a+ P+ a+ P+ O+ I|
+
+I= I= T= I-\O-\P|
+I= I= T= P-\O-\I|
+III= T= I-\O-\P 
+I\G\I G S P I
+
+channel: 2
+time: 0
+ins: 1
+volume: 100
+name: Piano 2
+
+$Q=\$Q=\$Q=\$Q=\
+$*=\$*=\$*=\$*=\
+$(=\$(=\$(=\$(=\
+$7=\$7=\$7=\$7=\
+
+$Q=\$Q=\$Q=\$Q=\
+$*=\$*=\$*=\$*=\
+$(=\$(=\$(=\$(=\
+/////
