@@ -5,7 +5,7 @@ This program requires Midiutil library
   pip install midiutil
 
 If you want to automatically convert MIDI to MP3 you need to install and setup FluidSynth
-  pip install pyFluidSynth
+  pip install midi2audio
 
 Use letter to play notes 
   qQwWeErtTyYui
