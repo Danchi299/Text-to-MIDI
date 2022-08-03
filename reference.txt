@@ -1,0 +1,32 @@
+
+Notes:
+ # # #   # # 
+C D E F G A B
+
+C2:
+ ! @   $ % ^ 
+1 2 3 4 5 6 7 
+
+C3:
+ * (   Q W E 
+8 9 0 q w e r
+
+C4:
+ T Y U   O P 
+t y u i o p a
+
+C5:
+ S D F   H J 
+s d f g h j k
+
+C6:
+ L Z   C V B 
+l z x c v b n
+
+
+All:
+ ! @   $ % ^   * (   Q W E   T Y U   O P   S D F   H J   L Z   C V B 
+1 2 3 4 5 6 7 8 9 0 q w e r t y u i o p a s d f g h j k l z x c v b n m
+
+Usable Delay Symbols Shortest to Longest:
+~ - + = (space) \ | /
