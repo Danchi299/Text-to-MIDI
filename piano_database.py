@@ -1,6 +1,6 @@
 black_notes = "!@$%^*(QWETYIOPSDGHJLZCVB"
 white_notes = "1234567890qwertyuiopasdfghjklzxcvbn"
-all_notes   = "1!2@34$5%6^78*9(0qQwWeErtTyYuiIoOpPasSdDfgGhHjJklLzZxcCvVbBnm"
+all_notes   = "1!2@34$5%6^78*9(0qQwWeErtTyYuiIoOpPasSdDfgGhHjJklLzZxcCvVbBnm" # Requested by Winwin
 
 notes = {
 '1': (36, 'C2'),
@@ -65,3 +65,4 @@ notes = {
 'n': (95, 'B6'),
 'm': (96, 'C7'),
 }
+# Midi range probably expands beyond that but we ran out of letters on the keyboard
