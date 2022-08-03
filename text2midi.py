@@ -111,23 +111,23 @@ for num, line in enumerate(text.split('\n')):
             # I should probably move this part to database.py
             else:
                 
-                if   note ==  '/': time += 4/4   # Measure
+                if   note ==  '/': time += 4/4   # Full Note ?
                 
-                elif note ==  '|': time += 3/4   # Full Note ?
+                elif note ==  '|': time += 3/4   #
                 
                 elif note == '\\': time += 2/4   # Half Note ?
                 
-                elif note ==  '-': time += -1/24
-                
-                elif note ==  '+': time += -1/12 # Eighth Note ?
-                    
                 elif note ==  ' ': time += 1/4   # Quarter Note ?
                 
-                elif note ==  '=': time += -1/6
+                elif note ==  '-': time += -1/24 #
+                
+                elif note ==  '+': time += -1/12 # Eighth Note ?
+                
+                elif note ==  '=': time += -1/6  # Sixteenth Note ?
 
                 elif note ==  '~': time += -1/4  # Chord 1~3~5
                 
-                elif note == '\n': time += 0     # does nothing, can be changed
+                #elif note == '\n': time += 0
                 
                 else: time += 0
 
