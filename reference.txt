@@ -12,11 +12,11 @@ C3:
 8 9 0 q w e r
 
 C4:
- T Y U   O P 
+ T Y   I O P 
 t y u i o p a
 
 C5:
- S D F   H J 
+ S D   G H J 
 s d f g h j k
 
 C6:
@@ -25,7 +25,7 @@ l z x c v b n
 
 
 All:
- ! @   $ % ^   * (   Q W E   T Y U   O P   S D F   H J   L Z   C V B 
+ ! @   $ % ^   * (   Q W E   T Y   I O P   S D   G H J   L Z   C V B 
 1 2 3 4 5 6 7 8 9 0 q w e r t y u i o p a s d f g h j k l z x c v b n m
 
 Usable Delay Symbols Shortest to Longest:
