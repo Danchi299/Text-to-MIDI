@@ -81,7 +81,7 @@ for num, line in enumerate(text.split('\n')):
         except ValueError:
             raise('Track Must Be an Integer')
         
-    elif any((i in lline) for i in ('volume:', 'v:')): # Note Volume
+    elif any((i in lline) for i in ('volume:', 'vol:', 'v:')): # Note Volume
             try:
                 name = int(line.split(":")[-1])
                 notes.append(('volume', name))
