@@ -65,4 +65,15 @@ notes = {
 'n': (95, 'B6'),
 'm': (96, 'C7'),
 }
-# Midi range probably expands beyond that but we ran out of letters on the keyboard
+
+delays = {
+'+' : 0.25, # Sixteenth
+'-' : 1/3,  #
+'=' : 0.5,  # Eighth
+'~' : 1,    # Quarter
+'\\': 2,    # Half
+'|' : 3,    #
+'/' : 4,    # Full   
+}
+
+# 1 - quarter
